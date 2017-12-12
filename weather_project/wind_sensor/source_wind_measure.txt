@@ -1,0 +1,4 @@
+https://en.wikipedia.org/wiki/Beaufort_scale              -------> value of m/s
+
+
+http://forum.arduino.cc/index.php/topic,8310.0.html           ---->source code value

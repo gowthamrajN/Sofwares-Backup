@@ -1,0 +1,1 @@
+https://arduino-info.wikispaces.com/DHT11-Humidity-TempSensor
